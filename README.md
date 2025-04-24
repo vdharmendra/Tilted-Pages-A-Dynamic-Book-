@@ -46,29 +46,29 @@ ChatGPT (for content generation)
 
 <br>
 <span>Desktop Desgin</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/224389919/Tilted-Pages-A-Dynamic-Book" target="_blank" >
 <img src="./img/bookCardAnimation.gif" width="575px"/>
 </a>
 <br />
 
 <span>Desktop Desgin UI UX </span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/224389919/Tilted-Pages-A-Dynamic-Book" target="_blank" >
 <img src="./img/bookCardUIUXLayoutAnimation.gif" width="275px"/>
 </a>
 <br />
 
 <span>Desktop Desgin</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/224389919/Tilted-Pages-A-Dynamic-Book" target="_blank" >
 <img src="./img/bookCardAnimation.png" width="275px"/>
-<img src="./img/bookCardHoverAnimation.png" width="475px"/>
+<img src="./img/bookCardHoverAnimation.png" width="275px"/>
 </a>
 <br />
 <span>Desktop Desgin UI UX Layout</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/224389919/Tilted-Pages-A-Dynamic-Book" target="_blank" >
 <img src="./img/bookCardUIUXLayoutAnimation.png" width="275px"/>
-<img src="./img/bookCardHoverUIUXLayoutAnimation.png" width="475px"/>
+<img src="./img/bookCardHoverUIUXLayoutAnimation.png" width="275px"/>
 </a>
 <span>Cover</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/224389919/Tilted-Pages-A-Dynamic-Book" target="_blank" >
 <img src="./img/cover.png" width="575px"/>
 </a>
