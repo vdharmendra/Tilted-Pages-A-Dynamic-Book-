@@ -47,32 +47,26 @@ ChatGPT (for content generation)
 <br>
 <span>Desktop Desgin</span><br/>
 <a href="" target="_blank" >
-<img src="./img/desktop-design.gif" width="575px"/>
+<img src="./img/bookCardAnimation.gif" width="575px"/>
 </a>
 <br />
-<span>Mobile Desgin</span><br/>
+
+<span>Desktop Desgin UI UX </span><br/>
 <a href="" target="_blank" >
-<img src="./img/mobile-design.gif" width="275px"/>
-</a>
- <br />
-<span>Desktop Desgin ui-ux Layout</span><br/>
-<a href="" target="_blank" >
-<img src="./img/desktop-ui-ux.png" width="475px"/>
+<img src="./img/bookCardUIUXLayoutAnimation.gif" width="275px"/>
 </a>
 <br />
-<span>ui-ux Layout Mobile Desgin</span><br/>
-<a href="" target="_blank" >
-<img src="./img/mobile-ui-ux.png" width="275px"/>
-</a>
- <br />
+
 <span>Desktop Desgin</span><br/>
 <a href="" target="_blank" >
-<img src="./img/desktop-design.png" width="475px"/>
+<img src="./img/bookCardAnimation.png" width="275px"/>
+<img src="./img/bookCardHoverAnimation.png" width="475px"/>
 </a>
 <br />
-<span>Mobile Desgin</span><br/>
+<span>Desktop Desgin UI UX Layout</span><br/>
 <a href="" target="_blank" >
-<img src="./img/mobile-design.png" width="275px"/>
+<img src="./img/bookCardUIUXLayoutAnimation.png" width="275px"/>
+<img src="./img/bookCardHoverUIUXLayoutAnimation.png" width="475px"/>
 </a>
 <span>Cover</span><br/>
 <a href="" target="_blank" >
